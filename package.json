@@ -1,0 +1,11 @@
+{
+  "name": "cult-pitch-api",
+  "version": "1.0.0",
+  "description": "AI Pitch Generator API for Cult.fit",
+  "dependencies": {
+    "openai": "^4.28.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
